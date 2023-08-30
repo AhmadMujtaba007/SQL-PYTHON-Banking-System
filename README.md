@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the code and documentation for a Bank Simulation project created by [Your Name]. The project is an interactive bank system implemented using SQL for database management and Python for the user interface.
+This repository contains the code and documentation for a Bank Simulation project created by me. The project is an interactive bank system implemented using SQL for database management and Python for the user interface.
 
 ## Features
 
