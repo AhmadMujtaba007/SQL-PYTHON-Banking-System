@@ -11,11 +11,4 @@ This repository contains the code and documentation for a Bank Simulation projec
 - **Transactions:** Perform deposits, withdrawals, and balance inquiries.
 - **Database:** Utilize SQL to store and manage account information and transaction history.
 
-## How to Use
-
-1. **Clone the Repository:** Clone this repository to your local machine.
-
-2. **Set Up Database:** Install a SQL database (e.g., MySQL, SQLite) and execute the provided SQL script (`create_database.sql`) to set up the required tables.
-
-3. **Run the Application:** In your terminal, run the Python application `bank_app.py` using the command:
 
